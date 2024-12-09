@@ -18,8 +18,8 @@ body{
 }
 
 #myDashboard {
-  width: 100%;
-  height: 50%;
+  width: 90%;
+  height: 60%;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 0;
